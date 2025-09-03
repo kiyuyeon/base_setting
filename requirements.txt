@@ -1,0 +1,35 @@
+# Deep Learning 기본 작업용 requirements (버전 미지정)
+
+# 데이터 처리
+numpy
+pandas
+scipy
+
+# 이미지 / 의료 이미지 처리
+pydicom
+opencv-python
+Pillow
+scikit-image
+
+# 시각화
+matplotlib
+seaborn
+plotly
+
+# 머신러닝 & 딥러닝
+scikit-learn
+# torch
+# torchvision
+# torchaudio
+# tensorflow  # 필요 시
+# keras        # 필요 시
+
+# 환경 / 실험 관리
+jupyterlab
+notebook
+tqdm         # 진행률 표시
+
+# 기타 유틸리티
+h5py         # HDF5 파일 처리
+requests     # 데이터 다운로드
+json5        # json 변형 처리
