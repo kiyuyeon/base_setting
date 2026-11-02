@@ -1,0 +1,12 @@
+megaage_asian/
+_splits/
+/All-Age-Faces Dataset
+/yolo_megaage_dataset
+
+.env
+/__pycache__
+*.csv
+*.ipynb
+*.ckpt 
+*.pth
+*.DCM
